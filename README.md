@@ -12,6 +12,8 @@ disabled | disables the button
 shadow | draws a shadow
 
 
+# Misc
+
 ### colors
 orange 
 yellow
@@ -21,10 +23,8 @@ purple
 white
 black
 
-# Misc
-
-### 
-Sizes: size-1
+### Sizes: 
+size-1
 
 size-2
 
