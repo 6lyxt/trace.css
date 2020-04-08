@@ -40,7 +40,9 @@ width-10 = Makes the button 10% bigger.
 width-15 = Makes the button 15% bigger.
 
 width-20 = Makes the button 20% bigger.
+
 ...
+
 width-95 = Makes the button 95% bigger.
 
 width-100 = Makes the button 100% bigger.
