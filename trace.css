@@ -1,23 +1,4 @@
 
-.btn {
-  font: 100%/1.1 "Roboto", sans-serif;
-  background-color: rgba(0,0,0,0.3);
-  border: 2.2px solid #ecf0f1;
-  color: #ffffff;
-  padding: 12px 62px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  text-transform: none;
-  font-size: 14.8px;
-  margin: 3px 6.9px;
-  cursor: pointer;
-  transition-duration: 0.4s;
-}
-.btn:hover {
-  background-color: rgba(0,0,0,.45)
-}
-
 .red {border: 2.2px solid #e74c3c;}
 .orange {border: 2.2px solid #f39c12;}
 .yellow {border: 2.2px solid #f1c40f;}
@@ -53,3 +34,5 @@
 .width-90 {width: 900px;}
 .width-95 {width: 950px;}
 .width-100 {width: 100%;}
+.btn {text-decoration: none;display: inline-block;text-transform: none;font-size: 14.8px;padding: 12px 62px;font: 100%/1.1 "Roboto", sans-serif;background-color: rgba(0,0,0,0.3);border: 2.2px solid #ecf0f1;color: #ffffff;text-align: center; margin: 3px 6.9px; cursor: pointer;transition-duration: 0.4s;}
+.btn:hover {background-color: rgba(0,0,0,.45)}
