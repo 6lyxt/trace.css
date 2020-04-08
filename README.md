@@ -12,8 +12,7 @@ disabled | disables the button
 shadow | draws a shadow
 
 
-colors | color
------------- | -------------
+### colors
 orange 
 yellow
 blue
